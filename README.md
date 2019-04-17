@@ -7,3 +7,4 @@ Commits History
 5. Added Internship details
 6. Added Technical Skills
 7. Added Soft Skills
+8. Added Co-Curricular Activities
