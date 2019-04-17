@@ -5,3 +5,4 @@ Commits History
 3. Added Education info
 4. Added Project info
 5. Added Internship details
+6. Added Technical Skills
