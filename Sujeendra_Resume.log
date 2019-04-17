@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.4.13)  17 APR 2019 10:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.4.13)  17 APR 2019 10:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1381,8 +1381,12 @@ sing-Raspberry-pi-For-Building-
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/sujeendra/Documents/
 Sujeendra_R_resume/Profile.jpeg>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 211.
+Overfull \hbox (2.77325pt too wide) in paragraph at lines 198--198
+[]\T1/cmr/bx/n/12 Link\T1/cmr/m/n/12 : []https://github.com/Sujeendra/Tic-tac-t
+oe-Game-using-Android-Studio-
+ []
 
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 211.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
@@ -1421,7 +1425,7 @@ pen/ec/ecbx1200.600pk> </home/sujeendra/.texlive2017/texmf-var/fonts/pk/ljfour/
 jknappen/ec/ecbx1728.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb>
-Output written on Sujeendra_Resume.pdf (4 pages, 233783 bytes).
+Output written on Sujeendra_Resume.pdf (4 pages, 233777 bytes).
 PDF statistics:
  316 PDF objects out of 1000 (max. 8388607)
  114 compressed objects within 2 object streams
