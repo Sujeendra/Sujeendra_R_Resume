@@ -12,3 +12,4 @@ Commits History
 10. Added Awards
 11. Added Personal Details
 12. Added Reference
+13. Declaration
