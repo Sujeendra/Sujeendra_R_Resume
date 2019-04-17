@@ -6,3 +6,4 @@ Commits History
 4. Added Project info
 5. Added Internship details
 6. Added Technical Skills
+7. Added Soft Skills
