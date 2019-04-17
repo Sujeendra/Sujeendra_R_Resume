@@ -8,3 +8,4 @@ Commits History
 6. Added Technical Skills
 7. Added Soft Skills
 8. Added Co-Curricular Activities
+9. Added Extra Curricular Activities
