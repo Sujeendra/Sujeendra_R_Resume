@@ -10,3 +10,4 @@ Commits History
 8. Added Co-Curricular Activities
 9. Added Extra Curricular Activities
 11. Added Awards
+12. Added Personal Details
